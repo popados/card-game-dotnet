@@ -30,3 +30,19 @@ C:\Users\Sunil Khandwala\Documents\_Markdown Pages\csc-card-game\00-card-game\ob
 C:\Users\Sunil Khandwala\Documents\_Markdown Pages\csc-card-game\00-card-game\obj\Debug\net5.0\ref\_card-game-csc.dll
 C:\Users\Sunil Khandwala\Documents\_Markdown Pages\csc-card-game\00-card-game\obj\Debug\net5.0\_card-game-csc.pdb
 C:\Users\Sunil Khandwala\Documents\_Markdown Pages\csc-card-game\00-card-game\obj\Debug\net5.0\_card-game-csc.genruntimeconfig.cache
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.exe
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.deps.json
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.runtimeconfig.json
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.runtimeconfig.dev.json
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.dll
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\bin\Debug\net5.0\_card-game-csc.pdb
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.AssemblyInfoInputs.cache
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.AssemblyInfo.cs
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.csproj.CoreCompileInputs.cache
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.sourcelink.json
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.dll
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\refint\_card-game-csc.dll
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.pdb
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\_card-game-csc.genruntimeconfig.cache
+C:\Users\popad\OneDrive\Desktop\git-clones\card-game-dotnet\obj\Debug\net5.0\ref\_card-game-csc.dll

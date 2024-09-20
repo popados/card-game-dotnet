@@ -46,14 +46,15 @@ namespace FireDeckTest
             return ":--" + CardName + "--:";
             //+ "\t Mana Cost: " + Cost
         }
-        public void printCard() {
+        public void printCard()
+        {
             Console.WriteLine("Card: " + CardName +
                  "\n Description: " + CardDescription +
                 "\n Ability: " + AbilityDescription +
                 "\n Type: " + CardType +
                 "\n Attack: " + Attack +
                 "\n Health: " + Health +
-                "\n Cost: " + Cost + 
+                "\n Cost: " + Cost +
                 "\n Just summoned: " + summonSickness);
             Console.WriteLine();
             //Console.ReadKey();
@@ -74,7 +75,7 @@ namespace FireDeckTest
         //most of these need to rely on the card triggering the effect
         //could check field and if > creature && has effect
         //
-        
+
         //enum each type maybe to make an easy property to read for the card
         //creature damage[x]
         //spell damage[x]
@@ -264,8 +265,10 @@ namespace FireDeckTest
             //for each field area // etc //etc
         }
     }
-    public class FireAvatar : Card {
-        public FireAvatar() {
+    public class FireAvatar : Card
+    {
+        public FireAvatar()
+        {
             CardName = "Atria, the Phoenix of Rebirth";
             CardDescription = "Commander of fire. Edge and all.";
             AbilityDescription = "I AM THE COMMANDER! HAhaAhaA.";

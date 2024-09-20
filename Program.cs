@@ -51,12 +51,12 @@ namespace FireDeckTest
         }
 
         public static void CreateMainStory()
-                {
-                    Console.WriteLine("    |<--- Trading Card Game! --->|");
-                    Console.WriteLine("\n|<--- Press Enter to Continue --->|");
-                    Console.WriteLine();
-                    Console.ReadKey();
-                }
+        {
+            Console.WriteLine("    |<--- Trading Card Game! --->|");
+            Console.WriteLine("\n|<--- Press Enter to Continue --->|");
+            Console.WriteLine();
+            Console.ReadKey();
+        }
 
         public static void shuffleFunction(List<Card> deck, List<Card> shuffled)
         {
@@ -145,11 +145,14 @@ namespace FireDeckTest
                     foreach (var card in fieldArea)
                     {
                         Console.WriteLine("Field slot {0}: " + card.CardName, fieldArea.IndexOf(card) + 1);
-                        if (card.isCreature == true && card.summonSickness == false) {
+                        if (card.isCreature == true && card.summonSickness == false)
+                        {
                             card.dealDamage(enemy);
                             //it exits after enemy is at 0 hp
                             //looking at mono game right now
-                        } else if (card.summonSickness == true) {
+                        }
+                        else if (card.summonSickness == true)
+                        {
                             Console.WriteLine("Can't attack this turn");
                             card.summonSickness = false;
                         }
@@ -620,6 +623,7 @@ namespace FireDeckTest
                 case 1:
                     Console.WriteLine("Mana++ here");
                     player.playerTurnCount++;
+                    player.printCard();
                     player.currentMana++;
                     player.maxMana++;
                     player.playerTurn = false;

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D+LZOsnBH9xn/3WbMDymDRoqD6mJT5V49P2dL8F9OcwNzw5o1akq9aI6UCNkPefzbXQoBH6p0s1XsT7CQPvqbg==",
+  "dgSpecHash": "wfQvvMTJhRw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sunil Khandwala\\Documents\\_Markdown Pages\\csc-card-game\\00-card-game\\_card-game-csc.csproj",
+  "projectFilePath": "C:\\Users\\popad\\OneDrive\\Desktop\\git-clones\\card-game-dotnet\\_card-game-csc.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Sunil Khandwala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\popad\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\popad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\popad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\popad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
